@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Smart Chatbot</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="data:,"> <!-- Empty favicon to prevent 404 -->
+</head>
+<body>
+
+  <!-- Toggle Button -->
+  <div id="chat-toggle" onclick="toggleChat()">💬</div>
+
+  <!-- Main Chat Container -->
+  <div class="chat-container hidden" id="chat-container">
+
+    <!-- Chat Header -->
+    <div class="chat-header">
+      <div class="left-section">
+        <img src="ll.jpg" alt="Logo" class="chat-logo" />
+        <span class="chat-title">Eternity AI's Chatbot</span>
+      </div>
+      <button class="back-btn" onclick="goBack()">←</button>
+    </div>
+
+    <!-- Main Chat Page -->
+    <div class="chat-page" id="main-page">
+      <div class="chat-box" id="chat-box">
+        <div id="welcome-message" class="chat-message bot">
+          Hello!!! How are you today?
+        </div>
+        <div id="chat-buttons" class="chat-buttons">
+          <button onclick="buttonClick('Services')">Services</button>
+          <!-- <button onclick="buttonClick('Products')">Products</button> -->
+          <button onclick="buttonClick('Contacts')">Contacts</button>
+          <button onclick="buttonClick('Chatbots')">Chatbots</button>
+        </div>
+      </div>
+      <div class="chat-input">
+        <input type="text" id="user-input" placeholder="Type a message..." />
+        <button onclick="sendMessage()">Send</button>
+        
+        <button id="voice-chat-btn" onclick="startVoiceRecognition()">🎤</button>
+        
+      </div>
+    </div>
+
+    <!-- Services Page -->
+    <div class="chat-page hidden" id="services-page">
+      <div class="chat-box" id="service-box">
+        <button class="back-btn inline-btn" onclick="showMainPage()">← Back</button>
+        <h3>Select a Service Category:</h3>
+        <div id="service-buttons" class="service-buttons"></div>
+      </div>
+    </div>
+
+    <!-- Service Detail Page -->
+    <div class="chat-page hidden" id="service-detail-page">
+      <div class="chat-box" id="service-detail-box">
+        <button class="back-btn inline-btn" onclick="showServiceCategories()">← Back</button>
+        <h3>Select a Specific Service:</h3>
+        <div id="service-detail-buttons" class="service-buttons"></div>
+      </div>
+    </div>
+
+    <!-- Service Description Page -->
+    <div class="chat-page hidden" id="service-description-page">
+      <div class="chat-box" id="service-description-box">
+        <button class="back-btn inline-btn" onclick="showServiceCategories()">← Back</button>
+        <h3 id="service-title"></h3>
+        <p id="service-description-text"></p>
+      </div>
+    </div>
+
+    <!-- Contacts Page -->
+    <div class="chat-page hidden" id="contacts-page">
+      <div class="chat-box" id="contacts-box">
+        <button class="back-btn inline-btn" onclick="showMainPage()">← Back</button>
+        <h3>You can contact us on:</h3>
+        <p>Email: <a href="mailto:director@eaiepl.com">director@eaiepl.com</a></p>
+        <p>Phone: <a href="tel:+918484070056">+91 8484070056</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/company/eternity-ai-endeavors-private-limited" target="_blank">Eternity AI Endeavors Private Limited</a></p>
+        <!-- Embedded Map for Shirdi Location -->
+        <iframe
+  width="350"
+  height="300"
+  style="border:0; border-radius: 10px;"
+  loading="lazy"
+  allowfullscreen
+  referrerpolicy="no-referrer-when-downgrade"
+  src="https://www.google.com/maps?q=19.75651112067696,74.48106368883082&z=18&output=embed">
+</iframe>
+
+<!-- Business Hours Section -->
+<h4 style="margin-top: 20px;">Business Hours:</h4>
+<ul style="list-style-type: none; padding: 0;">
+  <li>Monday to Friday: 9:00 AM – 5:00 PM</li>
+  <li>Saturday: Closed</li>
+  <li>Sunday: Closed</li>
+</ul>
+      </div>
+    </div>
+
+    <!-- Chatbots List Page -->
+<div id="chatbots-page" class="chat-page hidden">
+  <h2>Our AI Chatbots</h2>
+  <div id="chatbot-list-buttons"></div>
+  <button onclick="showMainPage()">← Back</button>
+</div>
+
+<!-- Chatbot Detail Page -->
+<div id="chatbot-detail-page" class="chat-page hidden">
+  <h2 id="chatbot-title"></h2>
+  <pre id="chatbot-description-text" style="white-space:pre-wrap;"></pre>
+  <button onclick="showChatbotList()">← Back</button>
+</div>
+
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+
+torch
+flask
+requests
+sentence-transformers
+huggingface_hub
+numpy
+faiss-cpu
+torch
+scikit-learn
+flask-cors
+transformers
+langchain
+

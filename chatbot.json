@@ -1,0 +1,402 @@
+[
+{
+    "ai_travel_chatbot_info": {
+      "name": "Tours and Travels Chatbot",
+      "description": "An intelligent virtual assistant designed to streamline travel planning by offering instant support, personalized suggestions, and seamless booking experiences.",
+      "features": [
+        "Provides 24/7 assistance for travel queries and bookings",
+        "Recommends packages based on user preferences",
+        "Offers real-time updates",
+        "Supports multilingual conversations"
+      ],
+      "key_features": {
+        "Trip Management": {
+          "Book Trips": "Customers can book flights, hotels, and tour packages directly through the chatbot.",
+          "Modify Trips": "Allow users to make changes to their bookings (e.g., dates, destinations, or accommodations).",
+          "Cancel Trips": "Provide an easy cancellation process with instant confirmation."
+        },
+        "Facilities and Package Details": {
+          "Package Information": "Display detailed information about tour packages, including itineraries, inclusions, and exclusions.",
+          "Facilities": "Highlight facilities such as transportation, meals, sightseeing, and accommodations."
+        },
+        "Payment Information": {
+          "Secure Gateway": "Secure payment gateway integration for seamless transactions.",
+          "Summaries and Status": "Provide payment summaries, invoices, and refund status updates."
+        },
+        "Trip Tips and Recommendations": {
+          "Personalized Tips": "Offer personalized travel tips, weather updates, and local insights based on the destination.",
+          "Additional Suggestions": "Suggest additional activities or upgrades to enhance the travel experience."
+        },
+        "Customer Support": {
+          "24/7 Multilingual Support": "Support for resolving queries related to bookings, payments, or travel details.",
+          "Escalation": "Escalate complex issues to human agents when necessary."
+        }
+      },
+      "benefits": {
+        "Enhanced Customer Experience": "Instant, accurate, and personalized responses to customer queries.",
+        "Increased Efficiency": "Automate repetitive tasks, reducing the workload on your support team.",
+        "Cost Effective": "Minimize operational costs by handling a large volume of queries without human intervention.",
+        "Scalability": "Easily handle peak booking seasons and growing customer demands.",
+        "Data-Driven Insights": "Gain valuable insights into customer preferences and behavior to improve services."
+      },
+      "customized_solutions": {
+        "Customized for Your Business": "Tailored chatbot based on your unique needs.",
+        "Product & Service Integration": "Syncs with your specific catalog and offerings.",
+        "Branding & Personalization": "Matches your company’s colors, tone, and identity.",
+        "Custom Forms & Fields": "Configurable fields for appointments and bookings."
+      }
+    },
+    "hospital_chatbot_info": {
+      "name": "Hospital Chatbot",
+      "tagline": "Smart Healthcare Assistant",
+      "description": "A smart healthcare assistant that simplifies patient interaction by offering instant responses, appointment bookings, and medical information around the clock.",
+      "features": [
+        "24/7 support for appointment scheduling and queries",
+        "Shares doctor availability and department details",
+        "Provides symptom-based guidance and health tips",
+        "Ensures patient data privacy with secure conversations"
+      ],
+      "about": "Our Hospital Virtual Assistant is an AI-powered chatbot designed to enhance patient experience and streamline healthcare operations. It functions as a digital patient helpdesk that is available 24/7, providing instant assistance for common healthcare needs without requiring human intervention.",
+      "key_service_areas": {
+        "Appointment Management": {
+          "Description": "Allows users to book, reschedule, or cancel appointments with ease.",
+          "Highlights": [
+            "Select preferred doctor or department",
+            "Reduce wait times",
+            "Improve overall patient experience"
+          ]
+        },
+        "Find a Doctor": {
+          "Description": "Helps users search for doctors by specialty and view profiles.",
+          "Highlights": [
+            "Simplifies specialist selection",
+            "Avoids repeated inquiries"
+          ]
+        },
+        "Status Checks": {
+          "Description": "Enables patients to track payments, access reports, and review doctor remarks.",
+          "Highlights": [
+            "No phone calls or hospital visits required"
+          ]
+        },
+        "Hospital Services": {
+          "Description": "Provides access to essential hospital services.",
+          "Highlights": [
+            "View visiting hours and pharmacy services",
+            "Request ambulance services",
+            "Schedule lab tests",
+            "Receive health tips"
+          ]
+        }
+      },
+      "necessity": [
+        "Overwhelming Call Volumes: Reduces routine inquiries",
+        "Administrative Burden: Frees up healthcare professionals",
+        "Accessibility Barriers: Provides 24/7 assistance",
+        "Patient Experience: Minimizes wait times and confusion",
+        "Resource Allocation: Automates routine tasks for efficiency"
+      ],
+      "benefits": {
+        "24/7 Availability": "Get assistance anytime",
+        "Immediate Response": "Instant answers without waiting",
+        "Convenience": "Manage appointments and access info from any device",
+        "Reduced Anxiety": "Easy access to information"
+      },
+      "future_scope": {
+        "Personalized Health Recommendations": "AI-driven personalized health advice",
+        "Integration with Wearable Devices": "Connect with health monitors",
+        "Multilingual Support": "Serve diverse patient populations",
+        "Symptom Assessment": "Guide patients to appropriate care",
+        "Medication Management": "Reminders and prescription details",
+        "Virtual Consultations": "Transition to video consultations",
+        "Insurance Verification": "Real-time eligibility checks"
+      }
+    },
+    "industrial_chatbot_info": {
+      "name": "Industrial Chatbot",
+      "tagline": "AI-Powered Chatbot for Forging & Manufacturing Industry",
+      "description": "An intelligent assistant designed to streamline operations, customer support, and technical queries within the industrial and manufacturing domain.",
+      "features": [
+        "Handles product inquiries, quotations, and order tracking",
+        "Offers 24/7 support for technical assistance and FAQs",
+        "Provides real-time updates on inventory and production status"
+      ],
+      "key_features": {
+        "Real-time Client Interaction": "Responds instantly to inquiries regarding products, services, appointments, and orders.",
+        "Dynamic Product & Service Display": "Fetches and showcases live data from the company’s product and service catalogs.",
+        "Appointment Booking": "Collects client details and schedules meetings with backend data storage.",
+        "Order Placement": "Supports product ordering with quantity, pricing, and customer details.",
+        "MongoDB Integration": "All client interactions and data are securely stored in the cloud (MongoDB Atlas).",
+        "React + FastAPI Architecture": "Modern, scalable tech stack for fast performance and easy customization."
+      },
+      "benefits": {
+        "24/7 Availability": "Chatbot never sleeps — available round the clock to assist customers.",
+        "Reduced Manual Work": "Automates repetitive queries and order processing.",
+        "Quick Access to Information": "One-click access to products, services, locations, and client partnerships.",
+        "Professional Interaction": "Every response is structured and relevant to the forging industry.",
+        "Scalable & Reliable": "Built for small to large-scale forging firms across India."
+      },
+      "customized_solutions": {
+        "Tailored Product Catalog & Services": "We tailor the chatbot based on your unique product catalog and offerings.",
+        "Branding & Tone": "Matches your company branding, colors, and tone.",
+        "Custom Fields": "Specific fields needed for appointments or orders.",
+        "Custom Documents": "Custom PDFs, invoices, or client reports."
+      }
+    },
+    "legal_chatbot_info": {
+  "name": "Legal Chatbot – Get Instant Legal Assistance",
+  "description": "An intelligent assistant designed to simplify legal processes by providing instant guidance, document support, and client interaction.",
+  "features": [
+    "Answers legal FAQs and basic rights-related queries",
+    "Helps generate and review standard legal documents",
+    "Offers 24/7 support while maintaining data confidentiality"
+  ],
+  "capabilities": {
+    "Instant Legal Answers": "Provides quick responses to legal queries using AI; generates answers if not readily available.",
+    "Book an Appointment": "Schedule a consultation with a legal expert based on user preference.",
+    "Legal Advice": "Delivers personalized guidance across family law, business law, criminal law, and more.",
+    "Document Review & Feedback": "Users can upload legal documents to receive expert validation and feedback.",
+    "Legal Fees & Estimates": "Provides cost estimates and service charges for various legal procedures.",
+    "Document Drafting": "Generates professionally drafted legal documents such as agreements, contracts, and wills."
+  },
+  "how_it_works": {
+    "Ask Legal Question": "Users type their legal query, and the AI chatbot responds with relevant insights.",
+    "Book Consultation": "Enables easy booking of appointments with qualified lawyers.",
+    "Upload Documents": "Accepts document uploads for review or drafting assistance.",
+    "Get Fee Estimates": "Provides upfront pricing details to help users plan legal actions."
+  },
+  "benefits": {
+    "Available 24/7": "Accessible anytime, from anywhere.",
+    "Instant & Reliable Answers": "Fast and accurate responses to legal inquiries.",
+    "Easy Appointment Scheduling": "Quick and seamless booking with legal professionals.",
+    "Affordable Legal Solutions": "Cost-effective support for a variety of legal needs.",
+    "Secure & Confidential": "User data and communications are fully protected.",
+    "Expert Legal Guidance": "Connects users with qualified legal experts for personalized advice.",
+    "Comprehensive Legal Services": "Includes document review, drafting, fee estimation, and case tracking in one place."
+        }
+    },
+
+    "poultry_chatbot_info": {
+  "name": "AI Poultry Chatbot",
+  "description": "A smart assistant designed to support poultry farmers and businesses with real-time guidance, health monitoring, and operational assistance.",
+  "features": [
+    "Provides info on poultry care, feeding schedules, and diseases",
+    "Assists with inventory, sales, and order inquiries",
+    "Available 24/7 with multilingual and regional language support"
+  ],
+  "vision": "Revolutionizing poultry management through real-time, AI-driven insights to enhance flock health and farm productivity.",
+  "capabilities": {
+    "Instant Answers": "Provides quick responses on poultry health, nutrition, and farm practices.",
+    "Disease Prevention & Diagnosis": "Helps identify early symptoms and provides AI-generated risk assessments and solutions.",
+    "Optimized Farm Management": "Assists in decisions related to feed schedules, climate control, and productivity improvements.",
+    "24/7 Availability": "Delivers on-demand expert insights anytime, without delays."
+  },
+  "how_it_works": {
+    "Step 1": "Open the chatbot on our website.",
+    "Step 2": "Select a topic or ask a question.",
+    "Step 3": "Receive AI-powered recommendations instantly.",
+    "Step 4": "Need further assistance? Connect with an expert seamlessly."
+        }
+        },
+
+    "real_estate_chatbot_info": {
+  "name": "AI Real Estate Chatbot",
+  "description": "A virtual assistant that helps buyers, sellers, and agents with instant property information, booking, and support.",
+  "features": [
+    "Shares listings based on user preferences and location",
+    "Schedules property visits and answers pricing queries",
+    "Available 24/7 to handle leads and improve engagement"
+  ],
+  "key_features": {
+    "Property Details": "Explore detailed information about properties, including amenities, pricing, and more.",
+    "Property Availability": "Check the availability of properties in your preferred location and book instantly.",
+    "Site Visit": "Schedule in-person or virtual site visits for properties of your choice.",
+    "Pricing Plans": "Calculate EMI, check loan eligibility, and explore flexible payment options.",
+    "Instant Booking": "Book your dream property instantly with a seamless booking process.",
+    "24/7 Support": "Get round-the-clock support for all your real estate queries."
+  },
+  "about": "Our Real Estate Chatbot is designed to simplify your property search and booking experience. Powered by advanced AI, it provides real-time information on properties, prices, and availability. Whether you're a buyer, seller, or investor, our chatbot is your trusted partner in the real estate journey.",
+  "how_it_works": {
+    "Ask Questions": "Start a conversation with the chatbot by asking about properties, pricing, or availability.",
+    "Get Recommendations": "The chatbot analyzes your preferences and provides personalized property recommendations.",
+    "Check Details": "Explore detailed property information, including amenities, pricing, and location.",
+    "Schedule Visits": "Book in-person or virtual site visits directly through the chatbot.",
+    "Instant Booking": "Complete your booking seamlessly with the chatbot's guided process."
+  }
+},
+
+"customizable_chatbot_info": {
+  "name": "AI Customizable Chatbot",
+  "description": "A flexible chatbot solution tailored to fit any industry, brand style, and customer needs for seamless interaction.",
+  "features": [
+    "Supports industry-specific workflows and features",
+    "Custom branding: name, tone, interface, and responses",
+    "Integrates easily with websites, apps, and third-party platforms"
+  ],
+  "key_features": {
+    "AI-Powered Conversations": "Smart. Fast. Human-like. Real-time answers with natural language flow, engaging chats with dynamic, randomized replies.",
+    "Hyper-Personalized Responses": "AI that understands your intent, live database fetch for up-to-date info, smart context retention for follow-up queries.",
+    "Service Intelligence": "Instant insights on hiring, support & solutions. Multi-service handling with dynamic updates.",
+    "Smart Job Engine": "Detects job-related queries like magic. Explore roles & apply directly via chatbot.",
+    "Sleek Chat UI": "Icon-rich, modern interface with real-time updates. Smooth, interactive experience that users love."
+  },
+  "customizable_solutions": {
+    "Industry-Specific Customizations": "Supports industry-specific customizations to enhance the recruitment experience.",
+    "Job Listings Management": "Companies can modify job listings, automate interview scheduling, and integrate AI-based candidate assessments.",
+    "HR System Integration": "The solution can be branded and integrated with existing HR systems, ensuring seamless workflow compatibility.",
+    "Onboarding and HR Queries": "Can be extended to handle employee onboarding, internal HR queries, and training assistance."
+  },
+  "benefits_for_clients": [
+    "Automates Recruitment Process: Reduces manual effort by streamlining job applications and candidate management.",
+    "Enhances Candidate Engagement: Provides instant dynamic responses and guidance to job seekers, improving their experience.",
+    "Saves Time & Resources: AI-powered interactions reduce the workload of HR teams, allowing them to focus on strategic hiring.",
+    "Scalable & Adaptable: Easily integrates into existing systems and scales with business growth.",
+    "Data-Driven Insights: Helps track application trends and candidate preferences for better decision-making.",
+    "24/7 Availability: Unlike human recruiters, the chatbot is always available to answer job-related queries.",
+    "Improves User Experience: Provides quick, relevant, and dynamic responses, making job applications and searches more intuitive.",
+    "Customizable for Business Needs: Allows companies to personalize responses, modify workflows, and optimize hiring strategies."
+  ]
+},
+
+"ai_driven_coaching_institute_bot": {
+  "name": "AI-Driven Coaching Institute Bot",
+  "description": "An intelligent assistant built to enhance student engagement, streamline academic queries, and support institute operations.",
+  "features": [
+    "Answers course, faculty, and admission-related queries instantly",
+    "Shares schedules, test results, and study material",
+    "Available 24/7 with personalized student support"
+  ],
+  "key_features": {
+    "Intent-Based Responses": "The chatbot uses advanced NLP models like SentenceTransformer to understand user intent and provide context-aware answers.",
+    "Dynamic Intent Handling": "Supports multi-layered conversation handling, allowing users to explore sub-intents and related topics without losing context.",
+    "Quick Suggestions": "After answering a query, the chatbot provides logical follow-up suggestions, improving user engagement.",
+    "Learning from Feedback": "The chatbot continuously updates its knowledge base based on user interactions and feedback to improve response accuracy.",
+    "Multi-Platform Support": "Accessible via website, mobile app, and messaging platforms like WhatsApp and Telegram.",
+    "Rich Media Integration": "Supports text, images, video clips, and embedded links for a more interactive experience."
+  },
+  "benefits": [
+    "24/7 Availability: Unlike human agents, the chatbot is always available to provide instant responses, even during non-working hours.",
+    "Reduced Workload: By handling routine questions, the chatbot reduces the workload on customer support teams, allowing them to focus on complex issues.",
+    "Cost Savings: Automated handling of common inquiries reduces the need for large customer support teams, leading to direct cost savings.",
+    "Improved Accuracy: Uses AI models to provide precise answers, reducing misunderstandings and improving user satisfaction.",
+    "Data-Driven Insights: Analyzes user interactions to identify trends and areas for improvement in your services and support.",
+    "Enhanced User Experience: Provides a smooth, conversational experience with natural language understanding and minimal lag."
+  ],
+  "customized_solutions": {
+    "Domain-Specific Responses": "Tailored to educational content like course details, faculty information, admission process, and extracurricular activities.",
+    "Personalized User Experience": "Remembers user preferences and history to deliver more relevant suggestions and responses.",
+    "Multilingual Support": "Can be configured to handle multiple languages, making it accessible to a wider audience.",
+    "Custom Branding": "The chatbot interface, name, and personality can be customized to reflect your institution’s branding and tone.",
+    "Secure Data Handling": "Data is encrypted and handled according to industry standards (e.g., GDPR) to ensure privacy and security.",
+    "Flexible Deployment": "Can be deployed on your website, mobile app, or integrated into existing platforms like WhatsApp, Facebook Messenger, etc."
+  },
+  "terms_of_use": {
+    "User Responsibility": "Users are responsible for providing accurate information and maintaining confidentiality of their login details.",
+    "Accuracy of Information": "While the chatbot provides accurate information, users should verify critical details with official sources.",
+    "Content Moderation": "The chatbot automatically filters inappropriate language or content and may restrict access if misuse is detected.",
+    "Limited Liability": "The institution is not responsible for decisions made based on chatbot-provided information.",
+    "Data Usage": "User interactions are recorded and analyzed to improve chatbot performance; data is stored securely and not shared with third parties.",
+    "Policy Updates": "The institution reserves the right to update terms of use or modify chatbot features without prior notice."
+  }
+},
+
+"ai_pharmacy_chatbot": {
+  "name": "AI Pharmacy Chatbot",
+  "description": "A smart assistant that simplifies medicine inquiries, order placement, and customer support for pharmacies.",
+  "features": [
+    "Helps users check drug availability, dosage, and side effects",
+    "Assists with online ordering and prescription uploads",
+    "Operates 24/7 with reminders for refills and renewals"
+  ],
+  "what_the_chatbot_delivers": {
+    "Automated Order Processing & Tracking": "Enable customers to place and track their orders seamlessly.",
+    "Medicine Information & Prescription Guidance": "Provide instant medicine details, dosage instructions, and prescription validation.",
+    "Store Locator & Customer Support": "Help customers find nearby stores and get 24/7 support for queries.",
+    "Offers & Personalized Recommendations": "Boost sales by suggesting relevant products and promotional offers."
+  },
+  "why_choose_our_ai_chatbot": [
+    "User-Friendly: Simple, intuitive, and easy to integrate.",
+    "Customizable: Tailored to your pharmacy's unique needs.",
+    "Scalable: Grows with your business, handling increasing customer interactions."
+  ],
+  "benefits": [
+    "Enhance customer experience with instant responses.",
+    "Increase operational efficiency by automating queries.",
+    "Drive more sales with smart recommendations."
+  ],
+  "key_features_and_benefits_for_clients": {
+    "Real-Time Assistance": "Get medicine details, dosage instructions, and availability instantly.",
+    "24/7 Customer Support": "No waiting time, our AI chatbot is always available to assist.",
+    "Seamless Ordering Process": "Place, modify, and track orders without hassle.",
+    "Secure & Private": "Ensuring your prescription details and transactions remain confidential.",
+    "Multilingual Support": "Communicate in your preferred language for a personalized experience.",
+    "AI-Powered Recommendations": "Get relevant product suggestions based on your needs."
+  }
+},
+
+"video_learn_assistant_bot": {
+  "name": "Video Learn Assistant Bot",
+  "description": "A smart learning companion that guides users through video-based content with interactive, personalized support.",
+  "features": [
+    "Recommends relevant video lessons based on user queries.",
+    "Answers questions in real-time while videos play.",
+    "Tracks progress and suggests the next steps in the learning path."
+  ],
+  "key_features": {
+    "Video-Contextual Query Understanding": "Responds intelligently based on the currently viewed video, directly from the transcript or related materials.",
+    "Smart Fallback via LLM (TinyLLaMA or OpenAI)": "If context is unavailable, the bot escalates to a language model. Seeks user consent before fetching general answers from AI.",
+    "Structured & Formatted Responses": "Every answer is organized with bullet points or numbered steps.",
+    "Multilingual Input Handling": "Ensures regional learners are not left behind.",
+    "Source Transparency": "Displays whether an answer came from transcript, document, or LLM. Builds trust with end-users and allows better auditing."
+  },
+  "benefits": [
+    "Scalable Learner Support: 24x7, instant answers.",
+    "Reduces Load on Human Mentors: Alleviates pressure on support staff.",
+    "Inclusive Learning: Supports regional language queries.",
+    "Analytics-Ready: Tracks what users are asking.",
+    "Highly Customizable: Adaptable for new subjects, videos, or languages.",
+    "Local/Offline-Friendly: TinyLLaMA mode for data privacy."
+  ],
+  "customization_options": [
+    "Video & Transcript Integration",
+    "Support Docs Upload / Management",
+    "Language Support: Add/Remove languages",
+    "LLM Fallback Model: TinyLLaMA/OpenAI",
+    "UI Styling & Embedding: Integrate into your platform",
+    "Response Format: With or without source",
+    "Consent Flow Wording",
+    "Logging & Analytics Integration"
+  ],
+  "terms_of_use": {
+    "User Responsibility": "Users are responsible for providing accurate information and maintaining confidentiality of their login details.",
+    "Accuracy of Information": "While the chatbot provides accurate information, users should verify critical details with official sources.",
+    "Content Moderation": "The chatbot automatically filters inappropriate language or content and may restrict access if misuse is detected.",
+    "Limited Liability": "The institution is not responsible for decisions made based on chatbot-provided information."
+  }
+},
+
+"ai_furniture_chatbot": {
+  "name": "AI Furniture Chatbot",
+  "description": "A smart virtual assistant that helps users explore furniture collections, get personalized suggestions, and streamline the shopping experience.",
+  "key_features": [
+    "Assists with product selection, pricing, and availability.",
+    "Offers style-based recommendations and room visualization.",
+    "Handles order tracking, returns, and customer queries 24/7."
+  ],
+  "sleep_chatbot_key_features": {
+    "Personalized Product Recommendations": "The chatbot analyzes user preferences and suggests the best mattresses, pillows, and sleep accessories tailored to individual needs.",
+    "Interactive Sleep Tips": "Users can access actionable advice to improve sleep quality, from creating a bedtime routine to optimizing their sleep environment.",
+    "Complaint Resolution": "The chatbot allows users to raise complaints about products or services, ensuring quick and efficient support.",
+    "FAQs & Support": "Get instant answers to common questions about product features, warranties, and shipping details."
+  },
+  "how_it_works": {
+    "Improved User Engagement": "The chatbot provides a conversational interface, making it easier for users to navigate your website and find the right products.",
+    "24/7 Customer Support": "With AI-driven responses, users get instant help, reducing the need for manual customer service.",
+    "Data-Driven Insights": "The chatbot collects user data, helping you understand customer preferences and improve product offerings.",
+    "Increased Sales": "By guiding users through product selection and addressing concerns in real time, the chatbot boosts conversion rates."
+  },
+  "why_choose_ai_for_sleep_technology": "AI is revolutionizing the sleep industry by offering smarter, more efficient solutions. From optimizing sleep environments to predicting customer needs, our chatbot ensures your website stays ahead of the curve. Integrating a Sleep Chatbot into your website isn’t just an upgrade—it’s a game-changer. Let’s redefine the future of sleep technology together."
+}
+
+  }
+]

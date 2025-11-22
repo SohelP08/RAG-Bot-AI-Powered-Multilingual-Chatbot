@@ -1,0 +1,67 @@
+{
+  "blog": [
+    {
+      "category": "AI in Education",
+      "articles": [
+        "Revolutionizing School Management with Power BI",
+        "Harnessing AI for Admission Forecasting"
+      ],
+      "details_link": "https://eaiepl.com/blog?blogcategory=AI+in+Education"
+    },
+    {
+      "category": "Automotive Technology",
+      "articles": [
+        "AWS for Paintshops: All solutions under one roof.",
+        "Enhancing Aluminium Alloys with Cryogenic Processing"
+      ],
+      "details_link": "https://eaiepl.com/blog?blogcategory=Automotive+Technology"
+    },
+    {
+      "category": "ChatBot/VoiceBot",
+      "articles": [
+        "Transforming Pharmacy Services with AI",
+        "The Future of Voice and Chatbots: Latest Technologies and Trends"
+      ],
+      "details_link": "https://eaiepl.com/blog?blogcategory=ChatBot%2FVoiceBot"
+    },
+    {
+      "category": "Cloud Computing",
+      "articles": [
+        "Cloud Computing: in AI Solutions: Transforming Innovation"
+      ],
+      "details_link": "https://eaiepl.com/blog?blogcategory=Cloud+Computing"
+    },
+    {
+      "category": "Electrical Vehicles",
+      "articles": [
+        "Cryogenic processing for EV Batteries"
+      ],
+      "details_link": "https://eaiepl.com/blog?blogcategory=Electrical+Vehicles"
+    },
+    {
+      "category": "General",
+      "articles": [
+        "The Soul of Silicon",
+        "Earthquake Prediction through Modern AI–Challenges & Opportunities",
+        "AI for Beginners: A Simple Guide to Understanding Artificial",
+        "Transforming Industries with the Power of Artificial Intelligence"
+      ],
+      "details_link": "https://eaiepl.com/blog?blogcategory=General"
+    },
+    {
+      "category": "Generative AI",
+      "articles": [
+        "Generative AI: Redefining Industries and Shaping Our Future"
+      ],
+      "details_link": "https://eaiepl.com/blog?blogcategory=Generative+AI"
+    },
+    {
+      "category": "Healthcare Automation",
+      "articles": [
+        "Revolutionizing Medical Verification with AI, ML, and Voice Bot",
+        "AI Innovations in Eye Care and Clinical Workflows"
+      ],
+      "details_link": "https://eaiepl.com/blog?blogcategory=Healthcare+Automation"
+    }
+  ]
+}

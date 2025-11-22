@@ -1,0 +1,68 @@
+[
+    {
+      "service_name": "Education",
+      "services": [
+        {
+          "service_detail": "AI-Powered Learning Solutions",
+          "description": "We provide AI-powered tools to enhance learning experiences. Our solutions include personalized education, automated grading systems, and smart content recommendations. These innovations help students and educators achieve better outcomes."
+        },
+        {
+          "service_detail": "Virtual Classroom Management",
+          "description": "Our AI-driven virtual classroom tools facilitate real-time interaction, automated attendance, and performance tracking. This ensures a seamless and engaging remote learning environment."
+        }
+      ]
+    },
+    {
+      "service_name": "Poultry",
+      "services": [
+        {
+          "service_detail": "AI-Based Poultry Management System",
+          "description": "Our AI solutions monitor poultry health and optimize feeding schedules. We use predictive analytics to forecast disease outbreaks and improve productivity. This ensures healthier flocks and reduced operational costs."
+        },
+        {
+          "service_detail": "Smart Hatchery Solutions",
+          "description": "AI-powered hatchery management optimizes incubation conditions, tracks egg health, and predicts hatching success rates. This improves efficiency and reduces wastage."
+        }
+      ]
+    },
+    {
+      "service_name": "Medical",
+      "services": [
+        {
+          "service_detail": "AI Solutions for Advanced Healthcare",
+          "description": "We offer AI-driven diagnostics and patient care automation. Predictive analytics help improve healthcare outcomes and streamline hospital operations. Our solutions enhance efficiency and patient satisfaction."
+        },
+        {
+          "service_detail": "AI-Powered Medical Imaging Analysis",
+          "description": "Our AI tools analyze medical images with high accuracy, aiding in early diagnosis and treatment planning. This reduces human error and speeds up decision-making."
+        }
+      ]
+    },
+    {
+      "service_name": "Cryogenic",
+      "services": [
+        {
+          "service_detail": "AI-Driven Cryogenic Process Optimization",
+          "description": "Our AI systems optimize cryogenic treatment processes. We monitor temperatures and cooling cycles to ensure material quality. This results in better performance and durability of treated materials."
+        },
+        {
+          "service_detail": "Cryogenic Equipment Monitoring",
+          "description": "We use AI to track equipment performance, predict maintenance needs, and prevent failures. This enhances operational efficiency and reduces downtime."
+        }
+      ]
+    },
+    {
+      "service_name": "Law Technology",
+      "services": [
+        {
+          "service_detail": "AI-Powered Legal Research and Analysis",
+          "description": "We provide AI tools for contract analysis and legal research. Our solutions offer faster and more accurate case predictions. This helps law firms deliver better services with greater efficiency."
+        },
+        {
+          "service_detail": "Intelligent Document Automation",
+          "description": "Our AI-driven document management system automates contract creation, analysis, and compliance checks. This saves time and reduces manual effort."
+        }
+      ]
+    }
+  ]
+  
