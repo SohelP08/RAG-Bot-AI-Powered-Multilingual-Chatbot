@@ -1,5 +1,6 @@
 # RAG-Bot-AI-Powered-Multilingual-Chatbot
 RAG-Bot is an advanced AI-powered conversational assistant built with a focus on accuracy, multilingual accessibility, and seamless user experience. Unlike generic chatbots, RAG-Bot leverages Retrieval-Augmented Generation (RAG) techniques to ensure company-specific responses, preventing irrelevant or hallucinated answers. Below is a glimpse of its clean and interactive user interface:
+
 <img width="645" height="767" alt="image" src="https://github.com/user-attachments/assets/2c055623-93d0-40b5-840d-9828ef923b23" />
 
 Key Features:
